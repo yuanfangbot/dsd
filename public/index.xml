@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jun 2025 03:15:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 自动发布演示</title>
+      <link>http://localhost:1313/posts/ai-publish/</link>
+      <pubDate>Sun, 29 Jun 2025 03:15:46 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ai-publish/</guid>
+      <description>&lt;p&gt;本文由 AI 自动发布，演示 Hugo 博客自动化流程。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;支持自动创建站点&lt;/li&gt;&#xA;&lt;li&gt;自动安装主题&lt;/li&gt;&#xA;&lt;li&gt;自动发布文章&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;欢迎体验 Hugo 与 AI 的高效结合！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
